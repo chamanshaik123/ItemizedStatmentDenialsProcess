@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Add File",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "NfTH4ss8RkCbfrHLXvfOZg",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/NfTH4ss8RkCbfrHLXvfOZg",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/ltM04UzPrkaiIwsAdkGi5w",
+  "Created": "2025-09-03T17:10:25.5466661Z",
+  "Updated": "2025-09-03T17:10:25.5466661Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

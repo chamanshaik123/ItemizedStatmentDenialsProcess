@@ -1,0 +1,13 @@
+﻿{
+  "Name": "IE Soarian",
+  "Type": "Screen",
+  "Id": "S2bYzBZihkaHJ6-kicWOMg",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/S2bYzBZihkaHJ6-kicWOMg",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/8aE10K9ko06A9Zr8KX8yZg",
+  "Created": "2025-08-31T11:23:46.9508131Z",
+  "Updated": "2025-08-31T11:23:46.9508131Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

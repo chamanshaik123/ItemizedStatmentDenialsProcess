@@ -1,0 +1,13 @@
+﻿{
+  "Name": "OK",
+  "Type": "Element",
+  "Id": "AB5DtKGHe0aOGYscDPcDXA",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/AB5DtKGHe0aOGYscDPcDXA",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/X7NllS3pa06yaQV17Cf9Jg",
+  "Created": "2025-08-31T12:22:45.2317348Z",
+  "Updated": "2025-08-31T12:22:45.2317348Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="_4PouIwjXUWDtS8-4E6Iog" Reference="6n0FgFXXDkSeOPXkUgP6SA/ET1tLfqTNEyex5ACQ63aVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="432, 225, 432, 302" BrowserType="IE" ContentHash="quJkochWyEqierWjvHcFjQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEhSURBVDhPlZDBSoRgFIV9pF6gR+gVatNmNkHLnE1EuIuECILyDXQhIjimKJEb30EmCnsDhUad21zvcZqpkfn74IL853yXixqTpintmyRJ2qqqLnrhN1zYR57nFIZh915+TKD9sNqO2jhZllFd17zkqyiKE6hCHMeojbMSKQiCfvgbqhBFEWpEV48Bnd+HdHob0/HN9uLPsqS3+fzvAn4YWC679YzBV0AV+GHg+img6cOMzu6e+wuOjJQOL1/oYPqKxo4Fvu8jIuq6dj2b12xexH2ogud5iNQu4D5UwXVdRGpwH6rgOA4itQu4D1WwbRsRUbNYUNPItG2z9T8GuA9VsCwLkdoF3IcqmKaJSA3uQxUMw0CkBvehCrqu039HTE37BhzbyIyO/xSmAAAAAElFTkSuQmCC" Reference="6n0FgFXXDkSeOPXkUgP6SA/ET1tLfqTNEyex5ACQ63aVg" Selector="&lt;html app='revenuecycle.exe' isremoteapp='1' title='RevElate' /&gt;" Title="RevElate" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="bddb85a40871ce952d9d55c0e52656a0.png" xmlns="">06KWnHmSydUudWxkw-mtPyQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

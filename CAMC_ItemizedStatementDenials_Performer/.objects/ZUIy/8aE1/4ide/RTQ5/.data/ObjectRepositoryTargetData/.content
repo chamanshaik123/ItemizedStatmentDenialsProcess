@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hPt0Xmzv80ysgG1XykIXSg" Reference="6n0FgFXXDkSeOPXkUgP6SA/RTQ5CwY9wEmG57ySdH-XIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="93d08106-0ae7-4fbc-baf1-7dfed522dc94" DesignTimeRectangle="655, 336, 248, 14" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='DIV' aaname='{0}*{1}' parentclass='GridRow' parentid='ctlBillingPeriodTable' /&gt;&quot;, in_PatientFirstName, in_PatientLastName)]" FuzzySelectorArgument="&lt;webctrl tag='DIV' aaname='WTEDTOINPATIENT UCTEST' parentclass='GridRow' parentid='ctlBillingPeriodTable' type='' class='gwt-Label' check:text='WTEDTOINPATIENT UCTEST' /&gt;" Guid="993309c7-4e22-4097-b8b5-aa851fd84b59" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' htmlwindowname='saml' isremoteapp='1' title='Cerner Soarian*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="a0e26af3eb6ba9aa107ba06c1adcf067.png" xmlns="">0aziP0xlL_0-6OMWt8CvL_w</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="2">
+      <ObjectRepositoryVariableData DefaultValue="UCTEST" IsVariable="False" Name="in_PatientFirstName" />
+      <ObjectRepositoryVariableData DefaultValue="WTEDTOINPATIENT" IsVariable="False" Name="in_PatientLastName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

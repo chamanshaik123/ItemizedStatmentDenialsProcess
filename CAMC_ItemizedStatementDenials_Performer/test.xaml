@@ -1,0 +1,261 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="test" this:test.in_BillAmount="728,474.99" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="in_BillAmount" Type="InArgument(x:String)" />
+  </x:Members>
+  <VisualBasic.Settings>
+    <x:Null />
+  </VisualBasic.Settings>
+  <sap2010:WorkflowViewState.IdRef>test_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Services.RuntimeAnalyze</x:String>
+      <x:String>UiPath.PDF.Activities</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+      <x:String>UiPath.PDF</x:String>
+      <x:String>UiPath.Vision.OCR</x:String>
+      <x:String>UiPath.OCR.Contracts</x:String>
+      <x:String>UiPath.OCR.Activities</x:String>
+      <x:String>UiPath.OCR.Contracts.Activities</x:String>
+      <x:String>UiPath.Core.Activities.OCR.Engines</x:String>
+      <x:String>UiPath.Vision.Core.OCR</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.ExtractData</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>System.Numerics</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.PDF.Activities</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Reflection.MetadataLoadContext</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+      <AssemblyReference>UiPath.PDF</AssemblyReference>
+      <AssemblyReference>UiPath.Vision.Core</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Core</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Contracts</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>System.Data.SqlClient</AssemblyReference>
+      <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="test" sap:VirtualizedContainerService.HintSize="638,2420" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="PdfText" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="IE Cerner Soarian [TEST 2025.01](1)(1)" sap:VirtualizedContainerService.HintSize="638,2397" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="Simulate" OpenMode="Never" ScopeGuid="a08421c1-bea1-4d3a-852a-d06a5aa9d730" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Fetching the total Charge Amount" sap:VirtualizedContainerService.HintSize="604,2083" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <Sequence.Variables>
+              <Variable x:TypeArguments="sd:DataTable" Name="dt_Billid" />
+              <Variable x:TypeArguments="sd:DataTable" Default="[New System.Data.DataTable]" Name="ExtractDataTable" />
+              <Variable x:TypeArguments="x:Int32" Name="LookupIdx" />
+              <Variable x:TypeArguments="x:String" Name="DateOfCorrectStatment" />
+            </Sequence.Variables>
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[dt_Billid]" DisplayName="Extract Table Data- Bill Number" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;&lt;Column xsi:type='DataColumn' ReferenceName='Init' ReferenceIdx='0' Name='Column-0'&gt;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&lt;ValidationErrorMessage /&gt;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&lt;Format xsi:type='TextColumnFormat' /&gt;&lt;/Column&gt;&lt;Column xsi:type='DataColumn' ReferenceName='Column-1' ReferenceIdx='1' Name='Column-1'&gt;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&lt;ValidationErrorMessage /&gt;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&lt;Format xsi:type='TextColumnFormat' /&gt;&lt;/Column&gt;&lt;Column xsi:type='DataColumn' ReferenceName='Column-2' ReferenceIdx='2' Name='Column-2'&gt;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&lt;ValidationErrorMessage /&gt;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&lt;Format xsi:type='TextColumnFormat' /&gt;&lt;/Column&gt;&lt;Column xsi:type='DataColumn' ReferenceName='Column-3' ReferenceIdx='3' Name='Column-3'&gt;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&lt;ValidationErrorMessage /&gt;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&lt;Format xsi:type='TextColumnFormat' /&gt;&lt;/Column&gt;&lt;Column xsi:type='DataColumn' ReferenceName='Column-4' ReferenceIdx='4' Name='Column-4'&gt;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&lt;ValidationErrorMessage /&gt;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&lt;Format xsi:type='TextColumnFormat' /&gt;&lt;/Column&gt;&lt;Column xsi:type='DataColumn' ReferenceName='Column-5' ReferenceIdx='5' Name='Column-5'&gt;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&lt;ValidationErrorMessage /&gt;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&lt;Format xsi:type='TextColumnFormat' /&gt;&lt;/Column&gt;&lt;Column xsi:type='DataColumn' ReferenceName='Column-6' ReferenceIdx='6' Name='Column-6'&gt;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&lt;ValidationErrorMessage /&gt;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&lt;Format xsi:type='TextColumnFormat' /&gt;&lt;/Column&gt;&lt;/Table&gt;" ExtractMetadata="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest' /&gt;" sap:VirtualizedContainerService.HintSize="570,189" sap2010:WorkflowViewState.IdRef="NExtractData_5" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="a08421c1-bea1-4d3a-852a-d06a5aa9d730" Version="V4">
+              <uix:NExtractData.Target>
+                <uix:TargetAnchorable DesignTimeRectangle="637, 424, 616, 280" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;uia cls='SWT_Window0' name='*RevElate' /&gt;&lt;uia role='table' /&gt;&lt;uia role='item' tableCol='0' tableRow='0' /&gt;&lt;uia automationid='tabToggleTable' role='table' /&gt;&lt;uia role='item' tableCol='2' tableRow='0' /&gt;&lt;uia automationid='WellArea' role='table' /&gt;&lt;uia role='item' tableCol='0' tableRow='0' /&gt;&lt;uia automationid='ctlBigGroup' role='table' /&gt;&lt;uia automationid='ctlBPBPDetails' role='table' /&gt;&lt;uia automationid='ctlBPBPDetails2' role='table' /&gt;&lt;uia automationid='ctlClaimsGuBillControlGroup' role='table' /&gt;&lt;uia automationid='ctlClaimsGuBillGrid*' name='Bill/Claim' role='data grid' /&gt;" Guid="8059cf17-9eb2-4d3e-821a-2c9e173a2677" InformativeScreenshot="10dccd6170c83dad06e7f6c5d080c226.png" ScopeSelectorArgument="&lt;wnd app='revenuecycle.exe' cls='SWT_Window0' isremoteapp='1' title='Revenue Cycle - United States Base Experience - RevElate - Opene*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" />
+              </uix:NExtractData.Target>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </uix:NExtractData>
+            <ui:FilterDataTable DataTable="[dt_Billid]" DisplayName="Filter Data Table- Remove empty rows" FilterRowsMode="Remove" sap:VirtualizedContainerService.HintSize="570,193" sap2010:WorkflowViewState.IdRef="FilterDataTable_1" OutputDataTable="[dt_Billid]" SelectColumnsMode="Remove">
+              <ui:FilterDataTable.Filters>
+                <scg:List x:TypeArguments="ui:FilterOperationArgument" Capacity="4">
+                  <ui:FilterOperationArgument Operand="{x:Null}" BooleanOperator="And" Operator="EMPTY">
+                    <ui:FilterOperationArgument.Column>
+                      <InArgument x:TypeArguments="x:Int32">[0]</InArgument>
+                    </ui:FilterOperationArgument.Column>
+                  </ui:FilterOperationArgument>
+                  <ui:FilterOperationArgument Operand="{x:Null}" BooleanOperator="And" Operator="EMPTY">
+                    <ui:FilterOperationArgument.Column>
+                      <InArgument x:TypeArguments="x:Int32">[1]</InArgument>
+                    </ui:FilterOperationArgument.Column>
+                  </ui:FilterOperationArgument>
+                  <ui:FilterOperationArgument Operand="{x:Null}" BooleanOperator="And" Operator="EMPTY">
+                    <ui:FilterOperationArgument.Column>
+                      <InArgument x:TypeArguments="x:Int32">[2]</InArgument>
+                    </ui:FilterOperationArgument.Column>
+                  </ui:FilterOperationArgument>
+                  <ui:FilterOperationArgument Operand="{x:Null}" BooleanOperator="And" Operator="EMPTY">
+                    <ui:FilterOperationArgument.Column>
+                      <InArgument x:TypeArguments="x:Int32">[3]</InArgument>
+                    </ui:FilterOperationArgument.Column>
+                  </ui:FilterOperationArgument>
+                </scg:List>
+              </ui:FilterDataTable.Filters>
+              <ui:FilterDataTable.SelectColumns>
+                <scg:List x:TypeArguments="InArgument" Capacity="4">
+                  <x:Null />
+                </scg:List>
+              </ui:FilterDataTable.SelectColumns>
+            </ui:FilterDataTable>
+            <ui:InvokeCode ContinueOnError="{x:Null}" Code="dt_Billid=dt_Billid.AsEnumerable().OrderByDescending(Function(r) datetime.ParseExact(r(&quot;Column-3&quot;).ToString.Trim, &quot;MM/dd/yyyy&quot;, Nothing)).CopyToDataTable&#xD;&#xA;dt_Billid.AsEnumerable.ToList.ForEach(Sub(r) r(&quot;Column-4&quot;)=r(&quot;Column-4&quot;).tostring.replace(&quot;)&quot;,&quot;&quot;))" DisplayName="Invoke Code- Remove extra characters from Bill Amount" sap:VirtualizedContainerService.HintSize="570,197" sap2010:WorkflowViewState.IdRef="InvokeCode_1">
+              <ui:InvokeCode.Arguments>
+                <InOutArgument x:TypeArguments="sd:DataTable" x:Key="dt_Billid">[dt_Billid]</InOutArgument>
+              </ui:InvokeCode.Arguments>
+            </ui:InvokeCode>
+            <ui:LookupDataTable CellValue="{x:Null}" LookupColumnIndex="{x:Null}" LookupDataColumn="{x:Null}" TargetColumnIndex="{x:Null}" TargetColumnName="{x:Null}" TargetDataColumn="{x:Null}" DataTable="[dt_Billid]" DisplayName="Lookup Data Table" sap:VirtualizedContainerService.HintSize="570,324" sap2010:WorkflowViewState.IdRef="LookupDataTable_2" LookupColumnName="Column-4" LookupValue="[in_BillAmount]" RowIndex="[LookupIdx]" />
+            <If Condition="[LookupIdx&lt;0]" sap:VirtualizedContainerService.HintSize="570,1008" sap2010:WorkflowViewState.IdRef="If_1">
+              <If.Then>
+                <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="416,226" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="382,166" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Bill Amount not matching with total charge amount&quot;]" />
+                </Sequence>
+              </If.Then>
+              <If.Else>
+                <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="536,612" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <If Condition="[DateTime.ParseExact(dt_Billid.Rows(LookupIdx)(&quot;Column-3&quot;).ToString.Trim, &quot;MM/dd/yyyy&quot;, nothing)= DateTime.Today]" sap:VirtualizedContainerService.HintSize="502,552" sap2010:WorkflowViewState.IdRef="If_2">
+                    <If.Then>
+                      <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="416,226" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="382,166" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Bill amount fetched matches with the latest Denial Statments&quot;]" />
+                      </Sequence>
+                    </If.Then>
+                    <If.Else>
+                      <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="468,165" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <Assign DisplayName="Assign- DateOfCorrectStatment" sap:VirtualizedContainerService.HintSize="434,105" sap2010:WorkflowViewState.IdRef="Assign_1">
+                          <Assign.To>
+                            <OutArgument x:TypeArguments="x:String">[DateOfCorrectStatment]</OutArgument>
+                          </Assign.To>
+                          <Assign.Value>
+                            <InArgument x:TypeArguments="x:String">[dt_Billid.Rows(LookupIdx)("Column-3").ToString.Trim]</InArgument>
+                          </Assign.Value>
+                        </Assign>
+                      </Sequence>
+                    </If.Else>
+                  </If>
+                </Sequence>
+              </If.Else>
+            </If>
+            <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="570,110" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;test&quot;]" />
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="0, 0, 1280, 680" BrowserType="IE" IconBase64="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" InformativeScreenshot="9235339bf82ee3c4d584d9beb625ae63.png" Selector="&lt;html app='revenuecycle.exe' htmlwindowname='saml' isremoteapp='1' title='Cerner Soarian*' /&gt;" Title="Cerner Soarian [TEST 2025.01]" Version="V1" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>

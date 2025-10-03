@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nK5AaY34EEegvQOdQ-jxeA" Reference="6n0FgFXXDkSeOPXkUgP6SA/5uB40RdprUWxKed00ysGGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="12d7f6fa-1546-44ea-9839-1646c1477c67" DesignTimeRectangle="45, 306, 12, 12" DesignTimeScaleFactor="1" ElementType="Icon" FullSelectorArgument="&lt;webctrl tableCol='4' tag='TD' aaname='GUARACCT' innertext='GUARACCT' /&gt;&lt;nav up='9' /&gt;&lt;webctrl tableCol='1' tableRow='1' tag='IMG' class='gwt-Image' /&gt;" FuzzyAccuracy="0.59" FuzzySelectorArgument="&lt;webctrl type='' class='gwt-Image' aaname='' tag='IMG' /&gt;" Guid="5794be31-453b-461c-b234-58a0614b1c96" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='Soarian' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="eed7044aa90950e68e89d611f95493a7.png" xmlns="">0Mxr3nkYZN0yzLGnFsKd2aw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

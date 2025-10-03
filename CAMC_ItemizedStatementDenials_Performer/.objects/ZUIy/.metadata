@@ -1,0 +1,12 @@
+﻿{
+  "Name": "IE Cerner Soarian [TRAIN 2025.01]",
+  "Type": "App",
+  "Id": "ZUIyzvxb_06Z_VJQ2j-zrA",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/ZUIyzvxb_06Z_VJQ2j-zrA",
+  "Created": "2025-08-01T13:16:23.1320444Z",
+  "Updated": "2025-08-01T13:16:23.1320444Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

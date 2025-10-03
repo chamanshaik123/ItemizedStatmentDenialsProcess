@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8iEPKtpC-0a2inK5K6-bmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d530bdc2-e9d7-4bb4-8597-97c099fd84d0" CvElementArea="836, 333, 15, 14" CvTextArea="810, 334, 25, 12" CvTextArgument="Filter" CvType="ArrowButton" DesignTimeRectangle="811, 335, 23, 12" DesignTimeScaleFactor="1" ElementType="Table" FullSelectorArgument="&lt;webctrl aaname='Filter' tag='DIV' class='gwt-Label ImageAndText-DefaultFont' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Filter' tag='DIV' class='gwt-Label ImageAndText-DefaultFont' type='' check:text='Filter' /&gt;" Guid="a20647f0-d3df-41b4-a8f1-980a80873a4f" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='Soarian' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cb15dca4a346995b41e514eb1ff5ef64.png" xmlns="">0lQWZMJpVDEOq5LmeOccNEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

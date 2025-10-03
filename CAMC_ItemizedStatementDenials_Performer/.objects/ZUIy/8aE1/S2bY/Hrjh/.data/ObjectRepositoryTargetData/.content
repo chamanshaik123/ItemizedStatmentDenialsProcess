@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7H9-8_qookuUgp7ML7c2cw" Reference="6n0FgFXXDkSeOPXkUgP6SA/HrjhtkkSl0Gz_VO8azCt_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8dc90b7e-ad31-41e9-81c9-850b0b9da799" DesignTimeRectangle="651, 445, 14, 14" DesignTimeScaleFactor="1" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl tag='TD' aaname='Document ' colName='Document ' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='INPUT' parentclass='gwt-CheckBox' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl id='gwt-uid-14' type='checkbox' class='' tag='INPUT' aaname='' /&gt;" Guid="33aa9c31-c866-462e-a590-2fe8d0955114" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='Soarian' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6e7cef45d6b4ef4d69f5fce5e494fc08.png" xmlns="">097jCb1ORjkCiv8GndbLjMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

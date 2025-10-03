@@ -1,0 +1,14 @@
+﻿{
+  "Name": "&Print",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "h6G425DZIk6lOGhYXya7-Q",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/h6G425DZIk6lOGhYXya7-Q",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/lKjL_OjLHUuhT5NVqLz22Q",
+  "Created": "2025-08-31T12:48:57.5760382Z",
+  "Updated": "2025-08-31T12:48:57.5760382Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

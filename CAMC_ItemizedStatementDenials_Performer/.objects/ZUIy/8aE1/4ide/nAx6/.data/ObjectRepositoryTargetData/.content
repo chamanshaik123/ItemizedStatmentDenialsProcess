@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oyle9Zt8VES2zQVhJXMorg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="3ebc891a-87e7-4e50-8442-2335aeb3f12e" CvElementArea="45, 306, 14, 15" CvType="ArrowButton" DesignTimeRectangle="45, 306, 12, 12" DesignTimeScaleFactor="1" ElementType="Icon" FullSelectorArgument="&lt;webctrl aaname='GUARACCT' tableCol='4' tableRow='1' tag='DIV' parentid='DocumentNavigator' /&gt;&lt;nav up='10' /&gt;&lt;webctrl tableCol='1' tableRow='1' tag='IMG' class='gwt-Image' parentclass='CUI-toolbarButton' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='gwt-Image' aaname='' tag='IMG' /&gt;" Guid="5d42d319-e05b-4328-870b-2929d4163be7" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='Soarian' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="21aa8440bfa392da75756be6c24d58d1.png" xmlns="">0Uv0G64q5-E-qgUySfUDFYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

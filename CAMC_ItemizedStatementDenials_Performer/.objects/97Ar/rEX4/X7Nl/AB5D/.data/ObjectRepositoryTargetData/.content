@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fTfAvhR6Y0qQvSoHeTtZHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="c0na-nprodnstg.asp.cernerworks.com/dm-test/HTML5/interop/displayDocuments" CVScreenId="6ce4f498-7610-4952-b1da-f59a9ec84ce0" DesignTimeRectangle="837, 548, 40, 20" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl aaname='OK' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='OK' tag='SPAN' type='' class='node_modules-terra-button-lib-___Button-module__button-label___11it9 node_modules-terra-button-lib-___Button-module__text-only___olK2B' check:text='OK' /&gt;" Guid="7c2bbe33-efa9-49cc-99d2-fab4d8af82c8" ScopeSelectorArgument="&lt;html isremoteapp='1' title='Document Management' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="36fa0a0415e70ee3da8a736ce2b90fed.png" xmlns="">0nbYLeW0l206CChHpfuBpqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

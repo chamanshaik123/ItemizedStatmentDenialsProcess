@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XksypBjsBk6UqK8AuxM_2w" Reference="6n0FgFXXDkSeOPXkUgP6SA/vSNPpeDNOkGNvt-BfGO_dQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="apps.availity.com/public/apps/home" CVScreenId="57eafb7e-abb7-48ea-bc5e-049638ba8568" CvElementArea="927, 124, 15, 15" CvType="CloseButton" DesignTimeRectangle="930, 124, 9, 16" DesignTimeScaleFactor="0.6666666865348816" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='SPAN' aaname='×' parentclass='close ng-scope' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SPAN' aaname='×' parentclass='close ng-scope' type='' class='' check:text='×' /&gt;" Guid="971bdff2-7435-4903-9bba-eaa5cad7773b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Availity Essentials*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="54e63e494429347577984e75865d8db3.png" xmlns="">0k6X3lkLAiUaIjvUQE_25CA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

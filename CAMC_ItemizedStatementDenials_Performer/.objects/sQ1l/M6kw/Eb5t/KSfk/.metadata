@@ -1,0 +1,14 @@
+﻿{
+  "Name": " Reason for message",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "KSfkImbULEiTLZja9rBjqA",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/KSfkImbULEiTLZja9rBjqA",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/Eb5to_48SkSoKGm_BAd_Ww",
+  "Created": "2025-08-06T17:27:40.8438268Z",
+  "Updated": "2025-08-06T17:27:40.8438268Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

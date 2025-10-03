@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F9YEnW80z0GOzaX3Fl7rfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0ea615aa-2578-49da-ad4d-c4b1d7929af5" DesignTimeRectangle="651, 508, 14, 14" DesignTimeScaleFactor="1" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl aaname='Patient Detail Bill' tag='DIV' colName='Patient Detail Bill' /&gt;&lt;nav up='2' /&gt;&lt;webctrl tag='INPUT' parentclass='gwt-CheckBox' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl id='gwt-uid-17' type='checkbox' class='' tag='INPUT' aaname='' /&gt;" Guid="766b4af5-5dff-46ab-9ea8-38ce6ba2a6cd" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='Soarian' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3d1af4c5ed9ba32831aeacee45151019.png" xmlns="">0V2PPOib1fkWhaIcDRU0fSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

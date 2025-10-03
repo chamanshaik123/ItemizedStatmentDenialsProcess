@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9qlfZlF0Gk2F-Iw7oRe_UA" Reference="6n0FgFXXDkSeOPXkUgP6SA/KSfkImbULEiTLZja9rBjqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="apps.availity.com/public/apps/home" CVScreenId="65ac36f5-17bd-4f01-b0c4-fdc0d51a3498" DesignTimeRectangle="380, 238, 551, 26" DesignTimeScaleFactor="0.6666666865348816" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='IFRAME' id='main-modal-content' /&gt;&lt;webctrl tag='DIV' class='av__control *-control' /&gt;" FuzzySelectorArgument="&lt;webctrl name='iframeModal' tag='IFRAME' /&gt;&lt;webctrl tag='DIV' class='av__control av__control--is-focused *css-zfqu8t-control' type='' aaname='' /&gt;" Guid="48c923f1-84f9-4ad4-8f5a-4461df6af66d" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Availity Essentials*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="380, 221, 110, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl name='iframeModal' tag='IFRAME' /&gt;&lt;webctrl id='reason-label' tag='LABEL' type='' class='' aaname=' Reason for message:' check:innerText='* Reason for message:' /&gt;" Guid="a78e2f40-9389-4ad0-abf7-75aa7f2e75ba" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="69dfc164a9bcba651ef8e062f311c4bc.png" xmlns="">0pB6M5TNXLkyvlk9VLxBW-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

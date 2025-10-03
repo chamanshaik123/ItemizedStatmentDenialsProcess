@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q6l6T5OGd0WwvovB1vnRjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="c0na-nprodnstg.asp.cernerworks.com/dm-test/HTML5/interop/displayDocuments" CVScreenId="02a611a2-85a0-412d-92d8-b629b0c06389" DesignTimeRectangle="323, 498, 16, 16" DesignTimeScaleFactor="1" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl id='includeHeaderFooterChk' tag='INPUT' type='checkbox' aaname='Include header/footer' /&gt;" FuzzySelectorArgument="&lt;webctrl id='includeHeaderFooterChk' tag='INPUT' type='checkbox' aaname='Include header/footer' class='node_modules-terra-form-checkbox-lib-___Checkbox-module__native-input___1shpF' /&gt;" Guid="b03f4f25-4f58-428c-b433-db96ed8dc215" ImageBase64="" ScopeSelectorArgument="&lt;html isremoteapp='1' title='Document Management' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="02a611a2-85a0-412d-92d8-b629b0c06389" CvTextArea="340, 490, 146, 13" CvTextArgument="Include header/footer" CvType="Text" DesignTimeRectangle="339, 488, 147, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Include header/footer' tag='SPAN' type='' class='node_modules-terra-form-checkbox-lib-___Checkbox-module__label-text___21abz' check:innerText='Include header/footer' /&gt;" Guid="3253fc6f-294e-4284-95fc-bb764a93754e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4a7e73d13fbbbebf8635ec696162bc19.png" xmlns="">023r2xgDwjU2Cj7ZE8YwHbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

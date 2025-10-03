@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w80G7gps_UyrG0drQ1fWBw" Reference="6n0FgFXXDkSeOPXkUgP6SA/MBiYYw4QT0ejBOyIvbs9Bg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="c0na-nprodnstg.asp.cernerworks.com/dm-test/HTML5/interop/displayDocuments" CVScreenId="0ee3d6db-928d-4a68-8ea1-5b0f72d046e8" DesignTimeRectangle="1223, 169, 28, 30" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl id='printCurrent' tag='BUTTON' aaname='Print Current Document' /&gt;" FuzzySelectorArgument="&lt;webctrl id='printCurrent' tag='BUTTON' aaname='Print Current Document' type='button' class='node_modules-terra-button-lib-___Button-module__button___2LvKb node_modules-terra-button-lib-___Button-module__neutral___3MiFU node_modules-media-viewer-js-lib-components-___MediaViewer__funcToolbarButton___2GD-5' /&gt;" Guid="bfe81104-acd4-441f-b16e-031752a5387d" ScopeSelectorArgument="&lt;html isremoteapp='1' title='Document Management' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="a2b06fccfc23c93dc43342e0a15402b3.png" xmlns="">0Dwwzk9IPZketAjtUWDThQQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

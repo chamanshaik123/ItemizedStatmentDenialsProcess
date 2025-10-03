@@ -1,0 +1,12 @@
+﻿{
+  "Name": "IE Document Management",
+  "Type": "App",
+  "Id": "97ArLxaBvEWWmcNNIV12_g",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/97ArLxaBvEWWmcNNIV12_g",
+  "Created": "2025-08-31T12:09:46.7695636Z",
+  "Updated": "2025-08-31T12:09:46.7695636Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

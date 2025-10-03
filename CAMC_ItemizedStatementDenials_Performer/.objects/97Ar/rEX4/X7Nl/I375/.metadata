@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Include headerfooter",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "I375fUEREkeQbeLGWIp2hA",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/I375fUEREkeQbeLGWIp2hA",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/X7NllS3pa06yaQV17Cf9Jg",
+  "Created": "2025-08-31T12:20:35.1339722Z",
+  "Updated": "2025-08-31T12:20:35.1339722Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

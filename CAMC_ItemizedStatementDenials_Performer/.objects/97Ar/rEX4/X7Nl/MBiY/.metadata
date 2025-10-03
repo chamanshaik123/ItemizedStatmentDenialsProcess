@@ -1,0 +1,14 @@
+﻿{
+  "Name": "BUTTON printCurrent",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "MBiYYw4QT0ejBOyIvbs9Bg",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/MBiYYw4QT0ejBOyIvbs9Bg",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/X7NllS3pa06yaQV17Cf9Jg",
+  "Created": "2025-08-31T12:15:43.2986368Z",
+  "Updated": "2025-08-31T12:15:43.2986368Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

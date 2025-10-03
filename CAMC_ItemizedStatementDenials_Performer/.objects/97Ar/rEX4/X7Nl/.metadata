@@ -1,0 +1,13 @@
+﻿{
+  "Name": "IE Document Management",
+  "Type": "Screen",
+  "Id": "X7NllS3pa06yaQV17Cf9Jg",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/X7NllS3pa06yaQV17Cf9Jg",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/rEX4Jya0akm-VbrYowWhhA",
+  "Created": "2025-08-31T12:09:46.8775387Z",
+  "Updated": "2025-08-31T12:09:46.8775387Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

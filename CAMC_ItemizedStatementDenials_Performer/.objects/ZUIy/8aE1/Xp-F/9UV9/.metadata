@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CAMC Health Plan Addres…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9UV9fiA5lEKvZszgXHIFuA",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/9UV9fiA5lEKvZszgXHIFuA",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/Xp-FyjwOBUuewDbSYr48eA",
+  "Created": "2025-08-26T06:06:06.5132267Z",
+  "Updated": "2025-08-26T06:06:06.5132267Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Z6k-Xv8M0UGZAHQJOHv_ww" Reference="6n0FgFXXDkSeOPXkUgP6SA/7bnqkmapO0-DZfLJ755RCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="apps.availity.com/public/apps/home" CVScreenId="c39e2a5e-de63-40b4-87bb-6d730b8a1747" DesignTimeRectangle="498, 299, 300, 25" DesignTimeScaleFactor="0.6666666865348816" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='newBodyFrame' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' aaname='*Tax ID' name='taxId' /&gt;" FuzzySelectorArgument="&lt;webctrl id='newBodyFrame' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' aaname='*Tax ID' name='taxId' type='text' class='is-untouched av-valid form-control' /&gt;" Guid="22489fac-2f04-4d19-af8e-61e581075064" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Availity Essentials*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c39e2a5e-de63-40b4-87bb-6d730b8a1747" CvTextArea="497, 284, 40, 11" CvTextArgument="* Tax ID" CvType="Text" DesignTimeRectangle="498, 282, 39, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='newBodyFrame' tag='IFRAME' /&gt;&lt;webctrl tag='LABEL' type='' class='' aaname=' Tax ID' check:innerText='* Tax ID' /&gt;" Guid="aa83a8a8-2427-4efd-8270-a07af4fb3b23" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1c2d7bc148cfd294ce939cd151d597bd.png" xmlns="">0KJvY2Xgko0uuR2ZkwRVwNA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

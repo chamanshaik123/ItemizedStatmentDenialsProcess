@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LlyRg5CfDU-AQo-OkyxG7w" Reference="6n0FgFXXDkSeOPXkUgP6SA/NJs4sgRqS0SX4vqfhYnVBw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="f614eaa6-1e5a-46e6-bc25-1919fb7ccb7a" DesignTimeRectangle="201, 410, 194, 15" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlid='1148' aaname='File name:' cls='Edit' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1148' aaname='File name:' cls='Edit' /&gt;" Guid="a539d578-69e5-4a33-b3ac-74c5bf761a22" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f614eaa6-1e5a-46e6-bc25-1919fb7ccb7a" CvTextArea="137, 410, 55, 12" CvTextArgument="File name:" CvType="Text" DesignTimeRectangle="138, 409, 54, 15" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlid='1090' title='File &amp;amp;name:' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1090' title='File &amp;amp;name:' check:text='File &amp;amp;name:' /&gt;" Guid="aba1a70a-c540-4089-a324-da2b3d3f4e67" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0b97646118a84ed33737bc53da220aa5.png" xmlns="">0P_Szm3LhTUOOQgAiaxsSFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="uJnaJtyi8EuoEzcWnEmqNA" Reference="6n0FgFXXDkSeOPXkUgP6SA/EkzroPm_1UuF0QgATFPuUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="7, 0, 626, 473" ContentHash="duWzP9T95Emn28k26-afSQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACoSURBVDhPnY4LDsAgCEM5+m7uaKEG3DeykHZIn9pXjWHDjuyd8lSEd0HzBYMu9A0yb8ylW4D8CkIYlQfUCeQnSPoLAGMFoBhhmQCFuRW+AhBk47ACoATgy6B8gGOJmr4BfMb/2gKFjxA1PQ8S0Pvws2x6n7nzILICuTwBYh5FiJdupdYXqBXWfC0EWFAu6XnlmR3YS7dCr+HVPwBul9vsdy1h6H79CZudUXw7AI4RYI4AAAAASUVORK5CYII=" Reference="6n0FgFXXDkSeOPXkUgP6SA/EkzroPm_1UuF0QgATFPuUg" Selector="&lt;wnd app='*.exe' cls='#32770' title='Save Print Output As' /&gt;" Title="Save Print Output As" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="c2da1c0e2aadd210c602f2798f033d62.png" xmlns="">0sIy0vEfGnUeuQtk6TOLY5A</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
