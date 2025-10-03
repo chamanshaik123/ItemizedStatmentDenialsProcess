@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Close Window",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "itM6xZxY_0ioz5sE_-Vmeg",
+  "Reference": "gjtGfDmMT0-C4J2FUYRzIQ/itM6xZxY_0ioz5sE_-Vmeg",
+  "ParentRef": "gjtGfDmMT0-C4J2FUYRzIQ/sA2VB781Lkelo2OocOPzQQ",
+  "Created": "2025-09-18T16:10:30.1434162Z",
+  "Updated": "2025-09-18T16:10:30.1434162Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
