@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Print",
+  "Type": "Screen",
+  "Id": "lKjL_OjLHUuhT5NVqLz22Q",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/lKjL_OjLHUuhT5NVqLz22Q",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/gUzi3h5v5UeBPWNgDCa3Eg",
+  "Created": "2025-08-31T12:34:15.6817626Z",
+  "Updated": "2025-08-31T12:34:15.6817626Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

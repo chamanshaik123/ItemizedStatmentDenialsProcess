@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Confirm Save As",
+  "Type": "Screen",
+  "Id": "ApY02eh4dkaxnZCWyLLTTg",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/ApY02eh4dkaxnZCWyLLTTg",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/RPN27h_nvkq0H7vYe9OCPg",
+  "Created": "2025-09-01T07:59:37.9388407Z",
+  "Updated": "2025-09-01T07:59:37.9388407Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0k2V7_cBz0S75-pU2ebMHg" Reference="6n0FgFXXDkSeOPXkUgP6SA/RlLABcGxb0m1cdLh0kZ3kw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a1cd184a-808a-446e-8f7e-4ce50aa32d31" CvElementArea="13, 73, 16, 16" CvTextArea="33, 74, 155, 14" CvTextArgument="Detail (shows detail charges)" CvType="CheckBox" DesignTimeRectangle="14, 72, 174, 20" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='checkbox' tableCol='1' tag='SPAN' aaname='Detail (shows detail charges)' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='checkbox' type='' class='IccMCUnChecked' tag='SPAN' aaname='Detail (shows detail charges)' check:text='Detail (shows detail charges)' /&gt;" Guid="cb06d549-f09b-4c92-862a-474e95994090" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='RevElate' /&gt;" SearchSteps="CV" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="a1cd184a-808a-446e-8f7e-4ce50aa32d31" CvTextArea="33, 74, 155, 14" CvType="Text" DesignTimeRectangle="33, 74, 155, 14" ElementType="Text" Guid="6a336857-e64e-4282-a9b3-f9ca015ab10f" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fc4f76ee32c227e3e0ace2c4337e4117.png" xmlns="">0DqI46Z_IZEC3itzUPIeZHQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

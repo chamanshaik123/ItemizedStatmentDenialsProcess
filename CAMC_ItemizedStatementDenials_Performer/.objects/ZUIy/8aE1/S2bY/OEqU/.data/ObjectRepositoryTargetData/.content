@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eqYbqCdmgEmqRUNpBbO7dw" Reference="6n0FgFXXDkSeOPXkUgP6SA/OEqUEC_wiUKS1Fdc-lNWZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="b31e34b1-cefc-45e3-9506-58d9bef818a0" DesignTimeRectangle="484, 378, 347, 14" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tableCol='2' tag='TD' aaname='{0}' /&gt;&lt;nav up='1' /&gt;&lt;webctrl aaname='Patient Detail Bill' tableCol='6' tag='DIV' /&gt;&quot;, CurrentDate)]" FuzzySelectorArgument="&lt;webctrl aaname='Patient Detail Bill' type='' class='CUI-BaseFont lblOverflow CUI-HyperLinkText' tag='DIV' check:text='Patient Detail Bill' /&gt;" Guid="174b60be-802d-4895-9cab-a44c3b075a92" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='Soarian' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="c522dd00ae5264146b5eac11e19c64e1.png" xmlns="">0NmdgAz_AHU-NN_hxysXOXA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="CurrentDate" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

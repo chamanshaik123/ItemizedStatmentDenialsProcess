@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c3epYSAxDUKE09hytS0jvA" Reference="6n0FgFXXDkSeOPXkUgP6SA/IBnHUhufIEq9ilMxi4M3wA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="apps.availity.com/public/apps/home" CVScreenId="d33ca00b-6c55-4f45-b0e7-eccd9ea47cbf" DesignTimeRectangle="873, 371, 43, 26" DesignTimeScaleFactor="0.6666666865348816" ElementType="Button" FullSelectorArgument="&lt;webctrl id='sendMsgBtn' tag='BUTTON' aaname='Send' /&gt;" FuzzySelectorArgument="&lt;webctrl name='iframeModal' tag='IFRAME' /&gt;&lt;webctrl id='sendMsgBtn' tag='BUTTON' aaname='Send' type='submit' class='float-right ml-3 btn btn-primary' check:text='Send' /&gt;" Guid="58a5acc3-2762-4562-9c0b-d8fb3016062c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Availity Essentials*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="bbcf8d0353161f6d739937a00b632a9e.png" xmlns="">0zjriMF5AgEarBgixutKziA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

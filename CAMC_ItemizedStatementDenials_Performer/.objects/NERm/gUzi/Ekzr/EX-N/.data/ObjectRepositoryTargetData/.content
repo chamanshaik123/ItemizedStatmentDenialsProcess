@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aN8mU17QGk6V5Unk6A-IdA" Reference="6n0FgFXXDkSeOPXkUgP6SA/EX-NRnaheEeNXPBr3v4F3g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0f1cc13d-c775-4881-ab32-c32cc7a58823" DesignTimeRectangle="420, 434, 88, 26" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' aaname='Save' cls='Button' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' aaname='Save' cls='Button' check:text='&amp;amp;Save' /&gt;" Guid="a52ee653-d412-453e-a1a1-aba177e7a02e" ScopeSelectorArgument="&lt;wnd app='*.exe' cls='#32770' title='Save Print Output As' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="50567cb72cce1c62b944b5fb41753940.png" xmlns="">05Zi6lrueukuUXqYC3T3lyA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0_HwRYgdYEiwj8yI3Nznkw" Reference="6n0FgFXXDkSeOPXkUgP6SA/raU-Nkh3nECnvczt0wx4RA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1203, 106, 40, 35" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='BUTTON' aaname='View Document Folders' parentclass='pageHeader' id='ctlPatientHeader2_EdmCompositeButton_EDMPopUpMenuBtn' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='BUTTON' aaname='View Document Folders' parentclass='pageHeader' id='ctlPatientHeader2_EdmCompositeButton_EDMPopUpMenuBtn' class='IccButtonGradient DMPopupMenuBtn control-collection' /&gt;" Guid="8df673ae-649e-4230-b3d0-970e10559b7e" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' htmlwindowname='saml' isremoteapp='1' title='Cerner Soarian*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="76d814b631452eb2c2afa1d053dcaa92.png" xmlns="">0nC_wwgoH406rRj5KZ_Ro4Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

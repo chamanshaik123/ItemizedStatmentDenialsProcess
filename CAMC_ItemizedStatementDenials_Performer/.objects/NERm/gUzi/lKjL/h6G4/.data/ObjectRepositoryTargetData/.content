@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KoNxeuM7eU2XrD7rk_6b8A" Reference="6n0FgFXXDkSeOPXkUgP6SA/h6G425DZIk6lOGhYXya7-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a21b6271-53a1-452d-ba83-4575eeac5a32" DesignTimeRectangle="216, 392, 75, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' aaname='Print' cls='Button' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' aaname='Print' cls='Button' check:text='&amp;amp;Print' /&gt;" Guid="f9d26738-55ca-48b1-bbe6-5c752c51e7fc" ScopeSelectorArgument="&lt;wnd app='iexplore.exe' cls='#32770' isremoteapp='1' title='Print' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="64832bb2c0ede80fb200926247d0d2d8.png" xmlns="">0UYF4xu0_I0-CCRnB_ZSNaQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

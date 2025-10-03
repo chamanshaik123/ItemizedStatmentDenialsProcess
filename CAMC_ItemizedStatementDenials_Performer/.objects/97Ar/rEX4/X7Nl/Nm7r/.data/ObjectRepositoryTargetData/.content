@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8YwPrJhJ_0Wu22unCjG_YA" Reference="6n0FgFXXDkSeOPXkUgP6SA/Nm7rK_KOQk-Dj0ciBRBhzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="c0na-nprodnstg.asp.cernerworks.com/dm-test/HTML5/interop/displayDocuments" CVScreenId="5bf0a0ae-9ceb-4bf7-b8fc-1f486f9666b7" DesignTimeRectangle="323, 469, 16, 16" DesignTimeScaleFactor="1" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='checkbox' aaname='Include annotations' id='includeAnnotationsChk' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='checkbox' aaname='Include annotations' id='includeAnnotationsChk' class='node_modules-terra-form-checkbox-lib-___Checkbox-module__native-input___1shpF' /&gt;" Guid="e5cebefc-7c69-4e05-a36c-dcef46ba0445" ImageBase64="" ScopeSelectorArgument="&lt;html isremoteapp='1' title='Document Management' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="c3e2bf1ae1bcc6f18f786dcacd1f2c5c.png" xmlns="">0ujTA8uilUkaDwp1RnuxeZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

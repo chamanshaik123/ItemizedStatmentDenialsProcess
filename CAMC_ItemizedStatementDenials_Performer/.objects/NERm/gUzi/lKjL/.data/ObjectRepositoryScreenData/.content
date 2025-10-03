@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="oOY8HPHOp062bE-MdKtGBQ" Reference="6n0FgFXXDkSeOPXkUgP6SA/lKjL_OjLHUuhT5NVqLz22Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="23, 16, 460, 423" ContentHash="sEwO34b7E06qOgrEx604eg" FilePath="C:\Program Files (x86)\Internet Explorer\iexplore.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVDhPY0AGEydO9Fi9evX/WbNm/Z8xYwYYg9ggPHPmzP8gOZAaqHJMADPg2/cfWPGqVasoM4AoF4BswQWIcsGaNWugyjEBTgPKy8u3APH/jo4OojBILRDvhmm+CRI4cvry/6qqKqIwSC3UkLsgA/4fOHYGjNPT04nCMPUgvWADdu49BMbBwcFEYZh6uAGbtu4AY2yKsWGQ2i3/pyMMgKW6y7ceEYVh6uEGfPn8FYztHVzBUdXT3fXfP7frf0ljx3+nqKD/TuHJ/7uBYqAoBqmBqQcbADMNhJWVTcAGgIDPst//b757+9+/o+C/dnYvWAwkB1KDrAcclcgAlFxBAGTAlH0r/ivHW/yXiGwBi4HkoMpwA5gLsAGiDAApAmVdWDaGORXExjSAgQEAqHM2ro2fsOoAAAAASUVORK5CYII=" Reference="6n0FgFXXDkSeOPXkUgP6SA/lKjL_OjLHUuhT5NVqLz22Q" Selector="&lt;wnd app='iexplore.exe' cls='#32770' isremoteapp='1' title='Print' /&gt;" Title="Print" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="7f7c2abde8afbe26ff838f0747a233c6.png" xmlns="">0DM8oaGrJx0qxBOkvQ8xkJw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5S-oI891BE-fBVaGXkqS_w" Reference="6n0FgFXXDkSeOPXkUgP6SA/oBvGMsYt1EuPG7FDlaVMMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="646f3aac-14ed-4fb1-9d0f-04a9b527c04e" DesignTimeRectangle="36, 93, 321, 17" DesignTimeScaleFactor="1" ElementType="ListItem" FullSelectorArgument="&lt;wnd cls='#32770' title='General' /&gt;&lt;wnd ctrlid='1' title='FolderView' /&gt;&lt;ctrl name='Folder View' role='list' /&gt;&lt;ctrl name='Microsoft Print to PDF' role='list item' /&gt;" FuzzySelectorArgument="&lt;wnd cls='#32770' title='General' /&gt;&lt;wnd ctrlid='1' title='FolderView' /&gt;&lt;ctrl name='Folder View' role='list' /&gt;&lt;ctrl name='Microsoft Print to PDF (from*' role='list item' automationid='' check:text='Microsoft Print to PDF' /&gt;" Guid="e3bede74-8123-4530-85de-5fee2e71939c" ScopeSelectorArgument="&lt;wnd app='iexplore.exe' cls='#32770' isremoteapp='1' title='Print' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="b418e20f76ed1a71f34c596424fcb696.png" xmlns="">0Lcip0QRxTkmfEV2vPe4Kgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

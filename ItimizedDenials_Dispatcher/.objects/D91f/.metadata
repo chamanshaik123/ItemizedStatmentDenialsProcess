@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Availity Essentials - Less than 28 minutes left until session expiration.",
+  "Type": "App",
+  "Id": "D91fvmx7lUCL555jrM7-Ww",
+  "Reference": "gjtGfDmMT0-C4J2FUYRzIQ/D91fvmx7lUCL555jrM7-Ww",
+  "Created": "2025-09-18T16:07:29.4586375Z",
+  "Updated": "2025-09-18T16:07:29.4586375Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

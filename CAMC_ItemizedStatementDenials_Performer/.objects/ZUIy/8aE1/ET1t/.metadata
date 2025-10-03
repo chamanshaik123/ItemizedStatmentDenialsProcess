@@ -1,0 +1,13 @@
+﻿{
+  "Name": "IE RevElate(1)",
+  "Type": "Screen",
+  "Id": "ET1tLfqTNEyex5ACQ63aVg",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/ET1tLfqTNEyex5ACQ63aVg",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/8aE10K9ko06A9Zr8KX8yZg",
+  "Created": "2025-08-30T10:09:49.6021584Z",
+  "Updated": "2025-08-30T10:09:49.6021584Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

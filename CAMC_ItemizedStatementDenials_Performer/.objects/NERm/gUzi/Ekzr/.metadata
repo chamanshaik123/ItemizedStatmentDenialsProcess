@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Save Print Output As",
+  "Type": "Screen",
+  "Id": "EkzroPm_1UuF0QgATFPuUg",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/EkzroPm_1UuF0QgATFPuUg",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/gUzi3h5v5UeBPWNgDCa3Eg",
+  "Created": "2025-08-31T12:51:09.3516603Z",
+  "Updated": "2025-08-31T12:51:09.3516603Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

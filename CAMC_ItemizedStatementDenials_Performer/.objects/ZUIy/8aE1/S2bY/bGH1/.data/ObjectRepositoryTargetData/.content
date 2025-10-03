@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c2uwfnaon0OlETtf881s-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="401f00e0-ea33-48ea-bfa6-721a282385d2" DesignTimeRectangle="749, 626, 38, 22" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname='Ok' class='IccButtonGradient' colName='Ok' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' aaname='Ok' class='IccButtonGradient' colName='Ok' type='button' check:text='Ok' /&gt;" Guid="53838a0c-ae40-48d8-974b-74af4994bf43" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='Soarian' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="524e71905d4de157a3dfe9347c02a5b0.png" xmlns="">011smH_KaV0enhQ1vQVmcHA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

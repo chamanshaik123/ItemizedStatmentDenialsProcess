@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="s9ZglZseU0-PnTsncH4hug" Reference="6n0FgFXXDkSeOPXkUgP6SA/ixm_TDuQ3E-WKujkls5ETQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5370e1c9-7e6c-4f79-a837-b33586d4372c" DesignTimeRectangle="14, 94, 21, 15" DesignTimeScaleFactor="1" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='DIV' aaname='*{0}*{1}*' aria-role='row' /&gt;&lt;webctrl tag='DIV' class='jqx-widget jqx-widget-hsglobal jqx-checkbox jqx-checkbox-hsglobal' /&gt;&quot;, in_BeginDate, in_EndDate)]" FuzzySelectorArgument="&lt;webctrl tag='DIV' aaname='                01/01/2025        01/14/2025' aria-role='row' /&gt;&lt;webctrl tag='DIV' class='jqx-widget jqx-widget-hsglobal jqx-checkbox jqx-checkbox-hsglobal' type='' aaname='' /&gt;" Guid="a5eeb870-f906-4d5b-96dc-d5a0ebeaea37" ScopeSelectorArgument="&lt;html app='revenuecycle.exe' isremoteapp='1' title='RevElate' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="92a75aa64647510d00de4a91decfaac6.png" xmlns="">02lnM4Gg4MkC-bmH6J1IkBQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="2">
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_BeginDate" />
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_EndDate" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

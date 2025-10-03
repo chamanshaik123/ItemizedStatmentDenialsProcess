@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Demand patient bill",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "1Yy5nuCrTkWfjyUS6mdYLQ",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/1Yy5nuCrTkWfjyUS6mdYLQ",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/4idecwIFYECupI71cWGDcg",
+  "Created": "2025-08-04T10:59:21.1463222Z",
+  "Updated": "2025-08-04T10:59:21.1463222Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

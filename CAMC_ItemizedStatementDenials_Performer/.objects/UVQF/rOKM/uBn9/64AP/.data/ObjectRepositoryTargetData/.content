@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xCvJo6walEGMZpd6BI7gng" Reference="6n0FgFXXDkSeOPXkUgP6SA/64APhuC4HEGjZH9PRpJjtw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="4777336b-f37e-492a-95c6-6c79332ea8f7" DesignTimeRectangle="427, 434, 88, 26" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd title='&amp;amp;Open' aaname='Open' cls='Button' /&gt;" FuzzySelectorArgument="&lt;wnd title='&amp;amp;Open' aaname='Open' cls='Button' check:text='&amp;amp;Open' /&gt;" Guid="7e2ca201-abdc-4a25-b551-5434fca2c1e0" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="90383f1810d9d4ab7c87cfb0f2a17761.png" xmlns="">0rc_TiwbQEUiXnQJ1XtUQ6g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": " Tax ID",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "7bnqkmapO0-DZfLJ755RCA",
+  "Reference": "6n0FgFXXDkSeOPXkUgP6SA/7bnqkmapO0-DZfLJ755RCA",
+  "ParentRef": "6n0FgFXXDkSeOPXkUgP6SA/ltM04UzPrkaiIwsAdkGi5w",
+  "Created": "2025-09-03T17:01:57.0737695Z",
+  "Updated": "2025-09-03T17:01:57.0737695Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
